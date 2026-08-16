@@ -1,0 +1,9 @@
+claude-agent-sdk
+tavily-python
+chromadb
+anyio
+openinference-instrumentation-claude-agent-sdk
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+fastapi
+uvicorn
